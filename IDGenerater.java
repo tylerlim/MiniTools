@@ -12,6 +12,7 @@
  * 
  * createid(Ststement,Table Colum Name,Table Name,ID Name);
  * createid(st,"StaffID",Staff,"SF");
+ * Database at lest need to hava one of the record like TH10000001
  */
 
 import java.sql.ResultSet;
